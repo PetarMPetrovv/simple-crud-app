@@ -2,6 +2,7 @@ package com.example.crudApp.web;
 
 import com.example.crudApp.model.GroupRepository;
 import com.example.crudApp.model.Group;
+import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
